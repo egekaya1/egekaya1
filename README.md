@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 2<sup>nd</sup>-year **Computer Engineering** student at **Politecnico di Torino**
+- 🎓 2<sup>nd</sup> year **Computer Engineering** student at **Politecnico di Torino**
 - 💼 Currently contributing as a:  
   • **Full Stack Developer** @ <a href="https://www.politorocketteam.it">PoliTo Rocket Team</a>  
   • **Database Developer** @ **Team DigiTwin**

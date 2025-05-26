@@ -57,9 +57,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egesercan&show_icons=true&theme=radical" alt="Ege's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egekaya1&show_icons=true&theme=radical" alt="Ege's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egesercan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egekaya1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

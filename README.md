@@ -48,7 +48,7 @@
 
 | Year | Project | Stack | What it Does |
 |------|---------|-------|--------------|
-| 2025 | **Discord Role-Automation Bot** | Node.js · Discord.js · Supabase | Listens for new members joining the PoliTo Rocket Team Discord, matches their username to Supabase records, and auto-assigns the correct role — automating onboarding. |
+| 2025 | **PRT - Discord Role-Automation Bot** | Node.js · Discord.js · Supabase | Listens for new members joining the PoliTo Rocket Team Discord, matches their username to Supabase records, and auto-assigns the correct role — automating onboarding. |
 | 2025 | **DigiTwin – Sensor Database** | PostgreSQL · C++ · CMake | Contributed to a team project at **Team DigiTwin** building the backend of a digital twin system for monitoring sensor data across physical structures. Helped design a normalized database schema (buildings, structures, sensors, tags, data and more) in PostgreSQL and co-developed the C++ backend logic to connect to the DB, manage secure credentials, and initialize the full schema programmatically. Prepared for scalable, real-time sensor ingestion (planned in future phases). Currently researching Cybersecurity aspects. Project source is internal. |
 
 

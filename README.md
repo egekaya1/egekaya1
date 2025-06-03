@@ -57,9 +57,9 @@
 ---
 
 ### 🌍 Languages
-- 🇹🇷 Turkish (native)  
-- 🇬🇧 English (bilingual)  
-- 🇮🇹 Italian (A2 → aiming B1 by 2026)
+- 🇹🇷 Turkish
+- 🇬🇧 English
+- 🇮🇹 Italian
 
 ---
 

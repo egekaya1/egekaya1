@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ege 👋</h1>
+<h1 align="center">Hi there!</h1>
 
 <p align="center">
   <em>Computer Engineering student at Politecnico di Torino | Tech &amp; Science Enthusiast</em>

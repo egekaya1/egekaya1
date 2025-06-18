@@ -6,14 +6,14 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 2<sup>nd</sup> year **Computer Engineering** student at **Politecnico di Torino**
-- 💼 Currently contributing as a:  
+###  About Me
+-  2<sup>nd</sup> year **Computer Engineering** student at **Politecnico di Torino**
+-  Currently contributing as a:  
   • **Full Stack Developer** @ <a href="https://www.politorocketteam.it">PoliTo Rocket Team</a>  
   • **Database Developer** @ **Team DigiTwin**
-- 🌱 **Learning now:** Swift · Java · AI/ML · Full-stack with **HTML / CSS / JS** &amp; **SQL**
-- 🧠 **Interests:** Tech · Science · Art · Running · Guitar
-- 💡 **Goal:** ship a large-scale personal project with real-world impact
+-  **Learning now:** Swift · Java · AI/ML · Full-stack with **HTML / CSS / JS** &amp; **SQL**
+-  **Interests:** Tech · Science · Art · Running · Guitar
+-  **Goal:** ship a large-scale personal project with real-world impact
 
 ---
 
@@ -78,10 +78,10 @@
 
 ---
 
-### 📫 Contact
-- ✉️ **Email:** <a href="mailto:egekaya360@gmail.com">egekaya360@gmail.com</a>  
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/ege-kaya/">linkedin.com/in/ege-kaya</a>  
-- 🌐 **Portfolio:** coming soon…
+###  Contact
+-  **Email:** <a href="mailto:egekaya360@gmail.com">egekaya360@gmail.com</a>  
+-  **LinkedIn:** <a href="https://www.linkedin.com/in/ege-kaya/">linkedin.com/in/ege-kaya</a>  
+-  **Portfolio:** coming soon…
 
 ---
 

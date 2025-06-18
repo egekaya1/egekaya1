@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ege!</h1>
 
 <p align="center">
-  <em>Computer Engineering student at Politecnico di Torino | Tech &amp; Science Enthusiast</em>
+  <em>Computer Engineering at Politecnico di Torino | Tech &amp; Science Enthusiast</em>
 </p>
 
 ---

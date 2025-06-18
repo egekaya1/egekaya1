@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 **Languages & Frameworks**
 
@@ -56,14 +56,14 @@
 
 ---
 
-### 🌍 Languages
-- 🇹🇷 Turkish
-- 🇬🇧 English
-- 🇮🇹 Italian
+###  Languages
+-  Turkish
+-  English
+-  Italian
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <table align="center">
   <tr>

@@ -7,8 +7,9 @@
 ---
 
 ###  About Me
--  2<sup>nd</sup> year **Computer Engineering** student at **Politecnico di Torino**
--  Currently contributing as a:  
+-  2<sup>nd</sup> year **Computer Engineering** student at **Politecnico di Torino**, **Front End Developer Intern** at **Parma Calcio**!
+-  Currently contributing as a:
+  • **Front End Developer Intern** @ <a href="https://www.parmacalcio1913.com">Parma Calcio!</a>  
   • **Full Stack Developer** @ <a href="https://www.politorocketteam.it">PoliTo Rocket Team</a>  
   • **Database Developer** @ **Team DigiTwin**
 -  **Learning now:** Swift · Java · AI/ML · Full-stack with **HTML / CSS / JS** &amp; **SQL**

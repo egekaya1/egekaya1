@@ -11,7 +11,7 @@
 -  Currently contributing as a:
     • **Front End Developer Intern** @ <a href="https://www.parmacalcio1913.com">Parma Calcio</a>  
     • **Full Stack Developer** @ <a href="https://www.politorocketteam.it">PoliTo Rocket Team</a>  
-    • **Database Developer** @ **Team DigiTwin**
+    • Past **Database Developer** @ **Team DigiTwin**
 -  **Learning now:** Swift · Java · AI/ML · Full-stack with **HTML / CSS / JS** &amp; **SQL**
 -  **Interests:** Tech · Science · Art · Running · Guitar
 -  **Goal:** ship a large-scale personal project with real-world impact

@@ -87,7 +87,7 @@
 ###  Contact
 -  **Email:** <a href="mailto:egekaya360@gmail.com">egekaya360@gmail.com</a>  
 -  **LinkedIn:** <a href="https://www.linkedin.com/in/ege-kaya/">linkedin.com/in/ege-kaya</a>  
--  **Portfolio:** coming soon…
+-  **Portfolio:** <a href="https://www.egekaya.dev">egekaya.dev</a>  
 
 ---
 

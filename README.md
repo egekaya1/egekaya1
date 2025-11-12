@@ -1,94 +1,78 @@
-<h1 align="center">Hi there, I'm Ege!</h1>
+<h1 align="center">Hi, I'm Ege Kaya 👋</h1>
 
 <p align="center">
-  <em>Computer Engineering at Politecnico di Torino | Tech &amp; Science Enthusiast</em>
+  <em>Computer Engineering @ Politecnico di Torino | Front-End Developer | Tech Enthusiast</em>
 </p>
 
 ---
 
-###  About Me
--  2<sup>nd</sup> year **Computer Engineering** student at **Politecnico di Torino**, **Front End Developer Intern** at **Parma Calcio**!
--  Currently contributing as a:
-  • **Front End Developer Intern** @ <a href="https://www.parmacalcio1913.com">Parma Calcio</a>  
-  • **Full Stack Developer** @ <a href="https://www.politorocketteam.it">PoliTo Rocket Team</a>  
--    Past **Database Developer** @ **Team DigiTwin**
--  **Learning now:** Swift · Java · AI/ML · Full-stack with **HTML / CSS / JS** &amp; **SQL**
--  **Interests:** Tech · Science · Art · Running · Guitar
--  **Goal:** ship a large-scale personal project with real-world impact
+### 👨‍💻 About Me
+- 3<sup>rd</sup>-year **Computer Engineering** student at **Politecnico di Torino**  
+- **Front-End Developer Intern** at [Parma Calcio 1913](https://www.parmacalcio1913.com)  
+- **Full Stack Developer** at [PoliTo Rocket Team](https://www.politorocketteam.it)  
+- Former **Database Developer** at **Team DigiTwin**
+
+**Currently exploring:** Swift · Java · AI/ML · Scalable web systems  
+**Goal:** build impactful, production-grade projects that bridge software and real-world value
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-**Languages & Frameworks**
-
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Frameworks & Libraries**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-**Databases & Backend**
-
+**Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-
-**Tools & DevOps**
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-### 🛠️ Projects
-
-| Year | Project                                  | Stack                                        | What it Does                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ---- | ---------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025 | **LoginApp – Role-Based Authentication** | Next.js · React · TypeScript · Redux Toolkit | A full authentication flow with login, logout, and role-based access control. Includes a `route.ts` handling login logic with serverless API routes, `authSlice.ts` for global auth state, a restricted admin-only page, a dynamic navbar, and protected routing using `useSelector` and `useRouter`.                                                                                                                                                                                         |
-| 2025 | **ReportsApp – API Data Viewer**         | Next.js · React · TypeScript                 | Fetches scouting reports from an external API and displays them in a table with server-side pagination, sorting, and search. Built with a `route.ts` acting as a backend proxy for API calls, a main `page.tsx` handling UI and data rendering, and a query provider to manage URL state for filters and pagination.                                                                                                                                                                          |
-| 2025 | **PRT - Discord Role-Automation Bot**    | Node.js · Discord.js · Supabase              | Listens for new members joining the PoliTo Rocket Team Discord, matches their username to Supabase records, and auto-assigns the correct role — automating onboarding.                                                                                                                                                                                                                                                                                                                        |
-| 2025 | **DigiTwin – Sensor Database**           | PostgreSQL · C++ · CMake                     | Contributed to a team project at **Team DigiTwin** building the backend of a digital twin system for monitoring sensor data across physical structures. Helped design a normalized database schema (buildings, structures, sensors, tags, data and more) in PostgreSQL and co-developed the C++ backend logic to connect to the DB, manage secure credentials, and initialize the full schema programmatically. Prepared for scalable, real-time sensor ingestion (planned in future phases). |
-
-*(More projects coming soon…)*
 
 ---
 
-###  Languages
--  Turkish
--  English
--  Italian
+### 🚀 Projects
+
+| Year | Project | Stack | Summary |
+|------|----------|--------|----------|
+| 2025 | **LoginApp – Role-Based Auth** | Next.js · TS · Redux | Full authentication flow with protected routes and role-based access. Includes serverless API routes and global auth state. |
+| 2025 | **ReportsApp – API Data Viewer** | Next.js · React · TS | Displays external scouting data with pagination, sorting, and search. Uses backend proxy routes for secure API calls. |
+| 2025 | **PRT Discord Bot** | Node.js · Discord.js · Supabase | Automates Discord role assignment for the PoliTo Rocket Team using Supabase user data. |
+| 2025 | **DigiTwin Sensor DB** | PostgreSQL · C++ | Co-developed backend logic and database schema for real-time sensor monitoring in digital twin systems. |
 
 ---
 
-### GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=egekaya1&show_icons=true&theme=radical" alt="Ege's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egekaya1&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### 🌍 Languages
+- Turkish 
+- English 
+- Italian 
 
 ---
 
-###  Contact
--  **Email:** <a href="mailto:egekaya360@gmail.com">egekaya360@gmail.com</a>  
--  **LinkedIn:** <a href="https://www.linkedin.com/in/ege-kaya/">linkedin.com/in/ege-kaya</a>  
--  **Portfolio:** <a href="https://www.egekaya.dev">egekaya.dev</a>  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=egekaya1&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egekaya1&layout=compact&theme=radical" height="150" />
+</p>
 
 ---
 
-> “Software is a great combination between artistry and engineering.” — Bill Gates
+### 📫 Contact
+- **Email:** [egekaya360@gmail.com](mailto:egekaya360@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ege-kaya](https://www.linkedin.com/in/ege-kaya/)  
+- **Portfolio:** [egekaya.dev](https://www.egekaya.dev)
+
+---
+
+> “Software is where engineering meets creativity.”

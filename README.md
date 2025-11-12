@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ege Kaya 👋</h1>
 
 <p align="center">
-  <em>Computer Engineering @ Politecnico di Torino | Front-End Developer | Tech Enthusiast</em>
+  <em>Computer Engineering @ Politecnico di Torino | Front-End Developer Intern</em>
 </p>
 
 ---

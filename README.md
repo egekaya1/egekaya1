@@ -13,7 +13,7 @@
 - Former **Database Developer** at **Team DigiTwin**
 
 **Currently exploring:** Swift · Java · AI/ML · Scalable web systems  
-**Goal:** build impactful, production-grade projects that bridge software and real-world value
+**Goal:** build impactful, production-grade projects that have real-world value
 
 ---
 

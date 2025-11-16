@@ -57,6 +57,8 @@
 | 2025 | **ReportsApp – API Data Viewer** | Next.js · React · TS | Displays external scouting data with pagination, sorting, and search. Uses backend proxy routes for secure API calls. |
 | 2025 | **PRT Discord Bot** | Node.js · Discord.js · Supabase | Automates Discord role assignment for the PoliTo Rocket Team using Supabase user data. |
 | 2025 | **DigiTwin Sensor DB** | PostgreSQL · C++ | Co-developed backend logic and database schema for real-time sensor monitoring in digital twin systems. |
+| 2025 | **LectureLens** | React · Next.js · Supabase · TypeScript | LectureLens allows students to input course material and receive a planned study program to achieve their goals. Features include summaries, flashcards, Q&A, schedules and more. Repository: https://github.com/egekaya1/LectureLens |
+| 2025 | **egekaya.dev (Portfolio)** | Next.js · TypeScript · CSS | My personal website showcasing my portfolio, projects, and contact info. Live site: https://egekaya.dev — Repository: https://github.com/egekaya1/egekaya.dev |
 
 ---
 

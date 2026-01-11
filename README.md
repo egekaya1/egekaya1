@@ -61,7 +61,7 @@
 | 2025 | **NIOChatServer** | Swift · NIO · WebSocket | Real-time WebSocket chat application built with Swift NIO for asynchronous networking. Repository: https://github.com/egekaya1/NIOChatServer |
 | 2025 | **Notes App** | Java · JavaFX | Feature-rich notes application with a clean JavaFX interface for organizing and managing personal notes. Repository: https://github.com/egekaya1/Notes-App |
 | 2025 | **PRT Discord Bot** | Node.js · Discord.js · Supabase | Automates Discord role assignment for the PoliTo Rocket Team using Supabase user data. Repository: https://github.com/egekaya1/PRT-role-bot |
-| 2025 | **Insights Web App** | TypeScript · Next.js · React | Data analytics and insights dashboard for Parma Calcio 1913 operations. Repository: https://github.com/parmacalcio1913/insights_web_app
+| 2025 | **Insights Web App** | TypeScript · Next.js · React | Data analytics and insights dashboard for Parma Calcio 1913 operations.
 | 2025 | **Scouting Dashboard** | TypeScript · React · CSS | Interactive dashboard for displaying and managing scouting reports with pagination, sorting, and search functionality.
 | 2025 | **Parma FC Project** | HTML · CSS · JavaScript | Parma FC landing page project built with simple, vanilla web technologies.
 | 2025 | **LeetCode Solutions** | C · Python | Repository for coding challenges and algorithm practice. Collection of solutions to LeetCode problems.

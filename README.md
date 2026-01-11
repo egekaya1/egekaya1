@@ -53,11 +53,18 @@
 
 | Year | Project | Stack | Summary |
 |------|----------|--------|----------|
-| 2025 | **CoreMetric** | Swift · SwiftUI · CoreML · PyTorch · C | Privacy-first system monitor that detects hardware anomalies (CPU hangs, memory leaks, thermal throttling) using on-device neural networks. Features a hybrid architecture: a low-level C collector for kernel metrics and a quantized Autoencoder running on the Apple Neural Engine for zero-overhead inference (<0.1% CPU). Includes a Python training pipeline for personalized baselining and a native SwiftUI dashboard for real-time visualization. Repository: https://github.com/egekaya1/CoreMetric |
-| 2025 | **Git-Sim** | Python · Dulwich · Rich · Typer · Textual | CLI tool that simulates dangerous Git operations (rebase, merge, reset, cherry-pick) without modifying your repository. Features visual before/after commit graphs, conflict prediction, safety analysis with danger levels, educational explanations, snapshot system, and interactive TUI. Includes extensible plugin system and comprehensive test suite. Repository: https://github.com/egekaya1/GitSimulator |
-| 2025 | **LectureLens** | React · Next.js · Supabase · TypeScript | LectureLens allows students to input course material and receive a planned study program to achieve their goals. Features include summaries, flashcards, Q&A, schedules and more. Live site: https://lecture-lens-nine.vercel.app/ — Repository: https://github.com/egekaya1/LectureLens |
+| 2025 | **CoreMetric** | Swift · SwiftUI · CoreML · PyTorch · C | Privacy-first system monitor that detects hardware anomalies (CPU hangs, memory leaks, thermal throttling) using on-device neural networks. Features hybrid architecture with low-level C collector and quantized Autoencoder on Apple Neural Engine. Repository: https://github.com/egekaya1/CoreMetric |
+| 2025 | **Git-Sim** | Python · Dulwich · Rich · Typer · Textual | CLI tool that simulates dangerous Git operations (rebase, merge, reset, cherry-pick) without modifying your repository. Features visual feedback, commit graphs, and merge conflict predictions. Repository: https://github.com/egekaya1/GitSimulator |
+| 2025 | **LectureLens** | React · Next.js · Supabase · TypeScript | LectureLens allows students to input course material and receive a planned study program to achieve their goals. Features include summaries, flashcards, Q&A's, schedules and more. Repository: https://github.com/egekaya1/LectureLens |
 | 2025 | **egekaya.dev (Portfolio)** | Next.js · TypeScript · CSS | My personal website showcasing my portfolio, projects, and contact info. Live site: https://egekaya.dev — Repository: https://github.com/egekaya1/egekaya.dev |
+| 2025 | **Timber Co.** | Java · JavaFX | Build a timber empire from the ground up. Command workers to cut forests, process wood, automate production, and scale operations. Bird's-eye view strategy game. Repository: https://github.com/egekaya1/Timber-Co. |
+| 2025 | **NIOChatServer** | Swift · NIO · WebSocket | Real-time WebSocket chat application built with Swift NIO for asynchronous networking. Repository: https://github.com/egekaya1/NIOChatServer |
+| 2025 | **Notes App** | Java · JavaFX | Feature-rich notes application with a clean JavaFX interface for organizing and managing personal notes. Repository: https://github.com/egekaya1/Notes-App |
 | 2025 | **PRT Discord Bot** | Node.js · Discord.js · Supabase | Automates Discord role assignment for the PoliTo Rocket Team using Supabase user data. Repository: https://github.com/egekaya1/PRT-role-bot |
+| 2025 | **Insights Web App** | TypeScript · Next.js · React | Data analytics and insights dashboard for Parma Calcio 1913 scouting operations. Repository: https://github.com/parmacalcio1913/insights_web_app |
+| 2025 | **Scouting Dashboard** | TypeScript · React · CSS | Interactive dashboard for displaying and managing scouting reports with pagination, sorting, and search functionality. Repository: https://github.com/egekaya1/scouting-dashboard |
+| 2025 | **Parma FC Project** | HTML · CSS · JavaScript | Parma FC project built with simple, vanilla web technologies. Repository: https://github.com/egekaya1/parma_fc |
+| 2025 | **LeetCode Solutions** | C · Python | Repository for coding challenges and algorithm practice. Collection of solutions to LeetCode problems. Repository: https://github.com/egekaya1/leetcode |
 | 2025 | **DigiTwin Sensor DB** | PostgreSQL · C++ | Co-developed backend logic and database schema for real-time sensor monitoring in digital twin systems. |
 | 2025 | **LoginApp – Role-Based Auth** | Next.js · TS · Redux | Full authentication flow with protected routes and role-based access. Includes serverless API routes and global auth state. |
 | 2025 | **ReportsApp – API Data Viewer** | Next.js · React · TS | Displays external scouting data with pagination, sorting, and search. Uses backend proxy routes for secure API calls. |
@@ -87,4 +94,4 @@
 
 ---
 
-> “Software is where engineering meets creativity.”
+> "Software is where engineering meets creativity."

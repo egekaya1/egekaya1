@@ -7,12 +7,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 3<sup>rd</sup>-year **Computer Engineering** student at **Politecnico di Torino**  
-- **Front-End Developer Intern** at [Parma Calcio 1913](https://www.parmacalcio1913.com)  
-- **Full Stack Developer** at [PoliTo Rocket Team](https://www.politorocketteam.it)  
+- 3<sup>rd</sup>-year **Computer Engineering** student at **Politecnico di Torino**
+- **Research Assistant** at **Politecnico di Torino** under **Prof. Paolo Montuschi**
+- Former **Full-Stack Developer Intern** at [Parma Calcio 1913](https://www.parmacalcio1913.com)  
+- Former **Full Stack Developer** at [PoliTo Rocket Team](https://www.politorocketteam.it)  
 - Former **Database Developer** at **Team DigiTwin**
 
-**Currently exploring:** Swift · Java · AI/ML   
+**Currently exploring:** Swift · Java · ML   
 **Goal:** build impactful, production-grade projects that have real-world value
 
 ---

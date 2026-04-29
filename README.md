@@ -9,11 +9,13 @@
 ### 👨‍💻 About Me
 - 3<sup>rd</sup>-year **Computer Engineering** student at **Politecnico di Torino**
 - **Research Assistant** at **Politecnico di Torino** under **Prof. Paolo Montuschi**
+- **Google Summer of Code 2026 Contributor (Swift Concurrency)**  
+  *Working on the Swift runtime with mentors from Apple to improve async task visibility, debugging, and performance*
 - Former **Full-Stack Developer Intern** at [Parma Calcio 1913](https://www.parmacalcio1913.com)  
 - Former **Full Stack Developer** at [PoliTo Rocket Team](https://www.politorocketteam.it)  
 - Former **Database Developer** at **Team DigiTwin**
 
-**Currently exploring:** Swift · Java · ML   
+**Currently exploring:** Swift · Astronomy · ML  
 **Goal:** build impactful, production-grade projects that have real-world value
 
 ---

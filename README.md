@@ -1,100 +1,151 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Ege Kaya</h1>
 
 <p align="center">
-  <em>Computer Engineering @ Politecnico di Torino | Software Developer</em>
+  <strong>Computer Engineer · AI Researcher · Software Developer</strong>
+  <br/>
+  <em>M.Sc. Computer Science @ UBC | Google Summer of Code 2026 Contributor (Swift Concurrency)</em>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 3<sup>rd</sup>-year **Computer Engineering** student at **Politecnico di Torino**
-- **Research Assistant** at **Politecnico di Torino** under **Prof. Paolo Montuschi**
-- **Google Summer of Code 2026 Contributor (Swift Concurrency)**  
-  *Working on the Swift runtime with mentors from Apple to improve async task visibility, debugging, and performance*
-- Former **Full-Stack Developer Intern** at [Parma Calcio 1913](https://www.parmacalcio1913.com)  
-- Former **Full Stack Developer** at [PoliTo Rocket Team](https://www.politorocketteam.it)  
-- Former **Database Developer** at **Team DigiTwin**
+## About Me
 
-**Currently exploring:** Swift · Astronomy · ML  
-**Goal:** build impactful, production-grade projects that have real-world value
+**Computer Engineering** graduate from **Politecnico di Torino** (GPA: 28/30, Full Scholarship). Currently:
+- 🚀 **Google Summer of Code 2026** — Building a global task registry for the Swift Concurrency runtime
+- 🎓 **Incoming fully funded M.Sc. in Computer Science** at **University of British Columbia** (Sep 2026)
+- 🔬 Former **Research Assistant** at Politecnico di Torino — AI platforms for educational systems
+- 💻 Former full-stack developer at **Parma Calcio 1913** and **PoliTO Rocket Team**
+
+**Interests:** Machine Learning · Systems Programming · Astronomy
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-
-**Frameworks & Libraries**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+**Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Swift NIO](https://img.shields.io/badge/Swift%20NIO-FA7343?style=flat&logo=swift&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-
-**Databases & Tools**
+**Infrastructure**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Projects
+## 🎯 Featured Projects
 
-| Year | Project | Stack | Summary |
-|------|----------|--------|----------|
-| 2026 | **Timber Co.** | Java · JavaFX | Build a timber empire from the ground up. Command workers to cut forests, process wood, automate production, and scale operations. Bird's-eye view strategy game.
-| 2025 | **CoreMetric** | Swift · SwiftUI · CoreML · PyTorch · C | Privacy-first system monitor that detects hardware anomalies (CPU hangs, memory leaks, thermal throttling) using on-device neural networks. Features hybrid architecture with low-level C collector and quantized Autoencoder on Apple Neural Engine. Repository: https://github.com/egekaya1/CoreMetric |
-| 2025 | **Git-Sim** | Python · Dulwich · Rich · Typer · Textual | CLI tool that simulates dangerous Git operations (rebase, merge, reset, cherry-pick) without modifying your repository. Features visual feedback, commit graphs, and merge conflict predictions. Repository: https://github.com/egekaya1/GitSimulator |
-| 2025 | **LectureLens** | React · Next.js · Supabase · TypeScript | LectureLens allows students to input course material and receive a planned study program to achieve their goals. Features include summaries, flashcards, Q&A's, schedules and more. Repository: https://github.com/egekaya1/LectureLens |
-| 2025 | **egekaya.dev (Portfolio)** | Next.js · TypeScript · CSS | My personal website showcasing my portfolio, projects, and contact info. Live site: https://egekaya.dev — Repository: https://github.com/egekaya1/egekaya.dev |
-| 2025 | **NIOChatServer** | Swift · NIO · WebSocket | Real-time WebSocket chat application built with Swift NIO for asynchronous networking. Repository: https://github.com/egekaya1/NIOChatServer |
-| 2025 | **Notes App** | Java · JavaFX | Feature-rich notes application with a clean JavaFX interface for organizing and managing personal notes. Repository: https://github.com/egekaya1/Notes-App |
-| 2025 | **PRT Discord Bot** | Node.js · Discord.js · Supabase | Automates Discord role assignment for the PoliTo Rocket Team using Supabase user data. Repository: https://github.com/egekaya1/PRT-role-bot |
-| 2025 | **Insights Web App** | TypeScript · Next.js · React | Data analytics and insights dashboard for Parma Calcio 1913 operations.
-| 2025 | **Scouting Dashboard** | TypeScript · React · CSS | Interactive dashboard for displaying and managing scouting reports with pagination, sorting, and search functionality.
-| 2025 | **Parma FC Project** | HTML · CSS · JavaScript | Parma FC landing page project built with simple, vanilla web technologies.
-| 2025 | **LeetCode Solutions** | C · Python | Repository for coding challenges and algorithm practice. Collection of solutions to LeetCode problems.
-| 2025 | **DigiTwin Sensor DB** | PostgreSQL · C++ | Co-developed backend logic and database schema for real-time sensor monitoring in digital twin systems. |
-| 2025 | **LoginApp – Role-Based Auth** | Next.js · TS · Redux | Full authentication flow with protected routes and role-based access. Includes serverless API routes and global auth state. |
-| 2025 | **ReportsApp – API Data Viewer** | Next.js · React · TS | Displays external scouting data with pagination, sorting, and search. Uses backend proxy routes for secure API calls. |
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **[GitSimulator](https://github.com/egekaya1/GitSimulator)** | Production-grade Git simulation engine: dry-run rebase, merge, reset, cherry-pick with visual commit graphs and conflict prediction. **3rd Place GitKon Game Jam 2025**. Available on PyPI. | Python, Dulwich, Rich, Typer | ✅ Open Source |
+| **[CoreMetric](https://github.com/egekaya1/CoreMetric)** | Privacy-first macOS system monitor using on-device ML anomaly detection. Detects hardware anomalies (CPU hangs, memory leaks) with <1% CPU overhead using quantized Autoencoder on Apple Neural Engine. | Swift, CoreML, C, PyTorch | 🔄 In Progress |
+| **[LectureLens](https://github.com/egekaya1/LectureLens)** | AI-powered study companion: ingest PDFs → AI summaries, flashcards, interactive Q&A, milestone-based study schedules with per-user isolation. Built for students. | Next.js, React, TypeScript, Supabase, PostgreSQL | 🔄 In Progress |
+| **[NIOChatServer](https://github.com/egekaya1/NIOChatServer)** | Real-time WebSocket chat built with Swift NIO. Non-blocking async I/O, concurrent connection handling, event-driven architecture. | Swift, NIO, WebSocket | 🔄 In Progress |
+| **[Notes App](https://github.com/egekaya1/Notes-App)** | Feature-rich desktop notes app with JavaFX. Rich text editing, category system, search & filter, persistent storage. | Java, JavaFX | 🔄 In Progress |
+| **[Portfolio (egekaya.dev)](https://github.com/egekaya1/egekaya.dev)** | Personal website. Next.js 16, TypeScript, Tailwind CSS v4. 95+ Lighthouse, WCAG AA, dark mode, <1s load time. | Next.js, TypeScript, CSS | ✅ Live |
+| **Timber Co.** | Bird's-eye view strategy game: build a timber empire, command workers, automate production chains. Worker AI, resource management, progression systems. | Java, JavaFX | 🔄 In Progress |
 
 ---
 
-### 🌍 Languages
-- Turkish 
-- English 
-- Italian 
+## 💼 Work Experience
+
+### Google Summer of Code 2026 – Swift Concurrency  
+**May 2026 – Present** | Apple Mentors: Alastair Houghton & Mike Ash  
+- Implementing a global task registry for the Swift Concurrency runtime in C++
+- Making suspended async tasks visible to debuggers and crash reports
+- Designing & benchmarking concurrent data structures targeting <5% throughput regression
+- **Ships to every Swift developer worldwide**
+
+### Research Assistant at Politecnico di Torino – Artificial Intelligence  
+**Feb 2026 – Present** | | Prof. Paolo Montuschi (IEEE Fellow, Vice Rector)  
+- Designing ML models to predict student academic performance
+- Building scalable data pipelines and evaluation frameworks for educational datasets
+- Deploying AI-based class support systems within university infrastructure
+
+### Full-Stack Developer  
+**Parma Calcio 1913** | Sep 2025 – Feb 2026  
+- Built & deployed 20+ production features (React, TypeScript) for 50+ staff
+- **Reduced operational workflow time by 50%**
+- Integrated AWS S3, CloudFront CDN, real-time data pipelines
+- Maintained **95+ Lighthouse performance scores**
+
+### Full-Stack & Embedded Developer  
+**PoliTO Rocket Team** | Feb 2025 – Feb 2026  
+- Developed internal platforms for 150+ members
+- **Automated 1,000+ daily operations, reduced admin overhead by 95%**
+- Implemented STM32 flight firmware in C/C++ under real-time constraints
+- Built drivers, watchdog systems, performed SWD debugging
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Recognition
+
+- **🥉 3rd Place – GitKon Game Jam 2025** (GitKraken) — For GitSimulator
+- **🎓 Google Summer of Code 2026** — Swift Concurrency runtime contributor
+- **💰 Scholarship, Politecnico di Torino** (2023–2026)
+- **💰 Full Scholarship, KU Leuven** — For top 10 ranking in faculty admissions, eventually decided to pursue other options
+
+---
+
+## 📚 Research & Contributions
+
+- **Gravitational Lens Finding** (ML4SCI / DeepLense Evaluation)  
+  ResNet-18 models under 100:1 class imbalance; AUC 0.9877, recovered 189 of 195 lenses
+
+- **LLMs in Engineering Education** — Co-authored research on pedagogical impacts of LLM-assisted instruction at Politecnico di Torino
+
+- **AI-Based Anomaly Detection in Network Security** — Survey paper covering Isolation Forest, One-Class SVM, autoencoders, LSTM, CNNs for intrusion detection
+
+- **Co-presented** — "Architecture and Memory: A Deep Dive aided by Artificial Intelligence"
+
+---
+
+## 📖 Education
+
+**M.Sc. in Computer Science** — *University of British Columbia* (Sep 2026)  
+Fully funded research assistantship. Supervised by Prof. Cristina Conati (ACM Fellow, AAAI Fellow), Human-AI Interaction Lab.  
+*Research focus: Personalized explainable AI*
+
+**B.Sc. in Computer Engineering** — *Politecnico di Torino* (2023–2026)  
+GPA: 27.5/30 | Full Merit Scholarship (tuition exemption + stipend)
+
+---
+
+## 🌍 Languages
+Turkish · English · Italian
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egekaya1&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egekaya1&show_icons=true&theme=radical&hide=issues" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egekaya1&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
-### 📫 Contact
-- **Email:** [egekaya360@gmail.com](mailto:egekaya360@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ege-kaya](https://www.linkedin.com/in/ege-kaya/)  
+## 🔗 Links
+
 - **Portfolio:** [egekaya.dev](https://www.egekaya.dev)
+- **LinkedIn:** [linkedin.com/in/ege-kaya](https://www.linkedin.com/in/ege-kaya/)
+- **Email:** [egekaya360@gmail.com](mailto:egekaya360@gmail.com)
 
 ---
 
-> "Software is where engineering meets creativity."
+> *Building impactful, production-grade software that creates real-world value.*

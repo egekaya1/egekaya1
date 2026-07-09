@@ -145,5 +145,3 @@ Turkish · English · Italian
 - **Email:** [egekaya360@gmail.com](mailto:egekaya360@gmail.com)
 
 ---
-
-> *Building impactful, production-grade software that creates real-world value.*

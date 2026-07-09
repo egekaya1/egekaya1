@@ -1,7 +1,6 @@
 <h1 align="center">Ege Kaya</h1>
 
 <p align="center">
-  <strong>Computer Engineer · AI Researcher · Software Developer</strong>
   <br/>
   <em>M.Sc. Computer Science @ UBC | Google Summer of Code 2026 Contributor (Swift Concurrency)</em>
 </p>

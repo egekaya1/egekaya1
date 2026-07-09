@@ -1,8 +1,7 @@
 <h1 align="center">Ege Kaya</h1>
 
 <p align="center">
-  <br/>
-  <em>M.Sc. Computer Science @ UBC | Google Summer of Code 2026 Contributor (Swift Concurrency)</em>
+  <strong>M.Sc. Computer Science @ UBC | Google Summer of Code 2026 Contributor (Swift Concurrency)</em>
 </p>
 
 ---

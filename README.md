@@ -1,6 +1,6 @@
-# Hi, I'm Ege.
+# Hello there, I'm Ege.
 
-I'm a systems and ML engineer currently based in Vancouver, where I'm starting my M.Sc. in Computer Science at UBC to research personalized explainable AI. 
+I'm a computer science student and software developer focused on systems and machine learning, currently based in Vancouver where I'm starting my M.Sc. in Computer Science at UBC to research personalized explainable AI. 
 
 Before moving to the Pacific Northwest, I lived in Italy. I studied Computer Engineering at Politecnico di Torino, did AI research for the university, built software for a professional football club, and wrote flight firmware for a university rocket team. 
 
